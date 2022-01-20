@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjfisher7
 - 👀 I’m interested in all things Tech. Learning something new every single day.
-- 🌱 I’m currently learning on Coursera Technical Support Fundamental by Google. I take my COMPTIA Security + certification test soon. 
-I already have a Cybersecurity Certificate from KU, trying to branch out a little and see what area interestes me the most.
+-  Completed my Certificate in Cybersecurity from KU Bootcamp. I take my COMPTIA Security + certification test soon. 
+Finally found me a nice Help Desk Job to start out in, trying to branch out a little and see what area interestes me the most.
 
 - 💞️ I’m looking to collaborate on anything that will help me in the IT industry get a job. I am seeking information about learning Python and more about VMs's.
 - 📫 How to reach me ...
